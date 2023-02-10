@@ -1,0 +1,15 @@
+C:\Users\EDUARDO\Documents\C# Programming\Advancing\Advancing\bin\Debug\net7.0\Advancing.exe
+C:\Users\EDUARDO\Documents\C# Programming\Advancing\Advancing\bin\Debug\net7.0\Advancing.deps.json
+C:\Users\EDUARDO\Documents\C# Programming\Advancing\Advancing\bin\Debug\net7.0\Advancing.runtimeconfig.json
+C:\Users\EDUARDO\Documents\C# Programming\Advancing\Advancing\bin\Debug\net7.0\Advancing.dll
+C:\Users\EDUARDO\Documents\C# Programming\Advancing\Advancing\bin\Debug\net7.0\Advancing.pdb
+C:\Users\EDUARDO\Documents\C# Programming\Advancing\Advancing\obj\Debug\net7.0\Advancing.csproj.AssemblyReference.cache
+C:\Users\EDUARDO\Documents\C# Programming\Advancing\Advancing\obj\Debug\net7.0\Advancing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDUARDO\Documents\C# Programming\Advancing\Advancing\obj\Debug\net7.0\Advancing.AssemblyInfoInputs.cache
+C:\Users\EDUARDO\Documents\C# Programming\Advancing\Advancing\obj\Debug\net7.0\Advancing.AssemblyInfo.cs
+C:\Users\EDUARDO\Documents\C# Programming\Advancing\Advancing\obj\Debug\net7.0\Advancing.csproj.CoreCompileInputs.cache
+C:\Users\EDUARDO\Documents\C# Programming\Advancing\Advancing\obj\Debug\net7.0\Advancing.dll
+C:\Users\EDUARDO\Documents\C# Programming\Advancing\Advancing\obj\Debug\net7.0\refint\Advancing.dll
+C:\Users\EDUARDO\Documents\C# Programming\Advancing\Advancing\obj\Debug\net7.0\Advancing.pdb
+C:\Users\EDUARDO\Documents\C# Programming\Advancing\Advancing\obj\Debug\net7.0\Advancing.genruntimeconfig.cache
+C:\Users\EDUARDO\Documents\C# Programming\Advancing\Advancing\obj\Debug\net7.0\ref\Advancing.dll
